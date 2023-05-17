@@ -123,6 +123,8 @@
   
 	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
 	
+	"101":	{ "ReservedBy":	"RattPoizon#2907" },		// Specter Knight
+	
 	"105" : { "ReservedBy" : "BlueHotMess" },            // ES Template
 	"106":   { "ReservedBy": "BlueHotMess"},             // ES Template
 	"107":   { "ReservedBy": "BlueHotMess"},             // ES Template
